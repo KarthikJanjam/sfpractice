@@ -1,2 +1,2 @@
 # sfpractice
-salesforce practice
+This repository is for salesforce practice
