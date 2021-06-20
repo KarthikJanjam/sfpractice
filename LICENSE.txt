@@ -1,4 +1,4 @@
-copy right 2021 - Karthik Janjam
+copy right 2021 - June - Karthik Janjam
 Salesforce has many license types which can get confusing.  To keep things straight, we’ll start with a brief summary of license types and then give more detail below.
 Salesforce’s different user licenses give users different access to your data.  (The license type determines which profiles and permission sets are available to the user.)
 
