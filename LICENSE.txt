@@ -1,0 +1,34 @@
+copy right 2021 - June - Karthik Janjam
+Salesforce has many license types which can get confusing.  To keep things straight, we’ll start with a brief summary of license types and then give more detail below.
+Salesforce’s different user licenses give users different access to your data.  (The license type determines which profiles and permission sets are available to the user.)
+
+To view a list of the active user licenses in your Salesforce org,  click Your Name | Setup | Company Profile | Company Information
+
+Here’s the summary of Salesforce user license types:
+
+Salesforce
+Full access to standard CRM, custom apps, and AppExchange apps.
+Salesforce Platform
+Custom apps & core objects (Accounts, Contacts, etc) only; no CRM (no Opportunities or Forecasts).
+Force.com – One App
+One custom app & read-only for accounts and Contacts; no CRM.
+Knowledge Only User
+Salesforce Knowledge app only.
+Chatter Free
+Access to Chatter for people in your company without a Salesforce license.  No additional cost.
+Chatter External
+Allows your customers to use Chatter groups.  No additional cost.
+Chatter Only (aka Chatter Plus)
+Access to Chatter for people in your company without a Salesforce license PLUS access to accounts & contacts.  Additional cost.
+Guest User
+Create a public website for your organization using Force.com Sites.
+Gold Partner
+Partner portal access.
+Authenticated Website
+A type of high volume customer portal license used with Force.com Sites. A modest fee allows for certain number of logins per month to your portal / website.
+High Volume Customer Portal
+Unlimited logins to your Service Cloud Portal to access customer support information.
+Customer Portal Manager Standard
+Contacts can log into your Customer Portal to manage customer support.
+Customer Portal Manager Custom
+Contacts can log into your Customer Portal to manage customer support (with more access than Customer Portal Manager Standard).
